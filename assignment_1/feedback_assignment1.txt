@@ -1,0 +1,25 @@
+******* Feedback Assignment 1 *********
+
+- do not do wishful thinking
+- comment on everything but keep it concise
+
+Plotting:
+- bar plots and scatter plots are the most clear formats for degree distribution (no connecting lines)
+- title, axis labels and legends !!
+- comparison plots should be in the SAME plot (with the proper alpha (transparency) setting, so they cannot conceal the data)
+- remove node labels on the network if they are not readable and if we don't need them
+
+Formatting:
+- Repeat questions and separate questions from answers visually (different colors/boxes or sections)
+- Notebook pleasant to read
+- Nice to Have:
+	- References of theory
+	- Explain in the markdown what the next cell is doing
+- Nice to Remove:
+	- outputs for testing purpuse
+	- the duplicates
+
+Network:
+- 2000 nodes and 18000 links approximately
+- Remove the self-loops - especially if you see them on the plot
+- Beware of the multi-edges
